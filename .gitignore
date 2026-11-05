@@ -1,0 +1,19 @@
+# Environment
+.venv/
+.env
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.DS_Store
+
+# Raw data: large, non-reproducible-by-git, and re-fetchable or re-saveable.
+# Everything under data/raw/ is ignored EXCEPT the small hand-checked CSVs below,
+# which are evidence of the Phase 1 manual verification and belong in version control.
+data/raw/matchlogs/
+data/raw/football_data/
+data/raw/understat/
+data/raw/players_data-2025_2026.csv
+
+!data/raw/manual/
+!data/raw/manual/*.csv
+!data/raw/nominees_2026.csv

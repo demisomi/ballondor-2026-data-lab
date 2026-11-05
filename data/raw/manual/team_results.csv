@@ -1,0 +1,67 @@
+team,team_type,competition,result,source_url,date_checked,notes
+Al Nassr,club,Saudi Pro League,1st,https://worldsoccertalk.com/news/cristiano-ronaldos-al-nassr-crowned-champions-updated-2025-26-saudi-pro-league-standings-after-the-final-round/,2026-11-04,86 points; champions
+Al Qadsiah,club,Saudi Pro League,4th,https://en.wikipedia.org/wiki/2025%E2%80%9326_Al-Qadsiah_FC_season,2026-11-04,"77 points per a Wikipedia season page; VERIFY, page may predate the final table"
+Arsenal,club,Premier League,1st,football-data.org: PL_2025_standings.json,2026-11-04,85 points from 38 games
+Arsenal,club,Champions League,Runner-up,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: FINAL
+Arsenal,club,EFL Cup,Runner-up,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: Final L 0–2 vs Manchester City
+Arsenal,club,FA Cup,Quarter-final,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 3 match(es) seen; last: Quarter-finals L 1–2 vs Southampton
+Barcelona,club,La Liga,1st,football-data.org: PD_2025_standings.json,2026-11-04,94 points from 38 games
+Barcelona,club,Champions League,Quarter-final,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: QUARTER_FINALS
+Barcelona,club,Copa del Rey,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 5 match(es) seen; last: Semi-finals W 3–0 vs Atlético Madrid. 2 matches in 'Semi-finals' (two legs or a series); decide by hand
+Barcelona,club,Supercopa de España,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: Final W 3–2 vs Real Madrid
+Bayern Munich,club,Bundesliga,1st,football-data.org: BL1_2025_standings.json,2026-11-04,89 points from 34 games
+Bayern Munich,club,Champions League,Semi-final,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: SEMI_FINALS
+Bayern Munich,club,DFB-Pokal,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: Final W 3–0 vs Stuttgart
+Bayern Munich,club,DFL-Supercup,,FBref match logs (saved pages),2026-11-04,"derived from nominees' FBref match logs. 1 match(es) seen; last: Franz Beckenbauer Supercup W 2–1 vs Stuttgart. won 'Franz Beckenbauer Supercup'; later rounds are not in the logs, check by hand"
+Chelsea,club,Premier League,10th,football-data.org: PL_2025_standings.json,2026-11-04,52 points from 38 games
+Chelsea,club,Champions League,Round of 16,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: LAST_16
+Inter Miami,club,Concacaf Champions Cup,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: Round of 16 D 1–1 vs us Nashville SC. 2 matches in 'Round of 16' (two legs or a series); decide by hand
+Inter Miami,club,Leagues Cup,Runner-up,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: Final L 0–3 vs us Seattle Sounders
+Inter Miami,club,MLS playoffs,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: MLS Cup W 3–1 vs Vancouver
+Inter Milan,club,Serie A,1st,football-data.org: SA_2025_standings.json,2026-11-04,87 points from 38 games
+Inter Milan,club,Champions League,Knockout playoff round,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: PLAYOFFS
+Inter Milan,club,Coppa Italia,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 3 match(es) seen; last: Final W 2–0 vs Lazio
+Inter Milan,club,Supercoppa Italiana,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 1 match(es) seen; last: Semi-finals D 1 (2)–1 (3) vs Bologna. decided on penalties or unclear result; decide by hand
+Manchester City,club,Premier League,2nd,football-data.org: PL_2025_standings.json,2026-11-04,78 points from 38 games
+Manchester City,club,Champions League,Round of 16,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: LAST_16
+Manchester City,club,EFL Cup,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 4 match(es) seen; last: Final W 2–0 vs Arsenal
+Manchester City,club,FA Cup,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 4 match(es) seen; last: Final W 1–0 vs Chelsea
+Manchester United,club,Premier League,3rd,football-data.org: PL_2025_standings.json,2026-11-04,71 points from 38 games
+Manchester United,club,EFL Cup,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 1 match(es) seen; last: Second round D 2 (11)–2 (12) vs Grimsby Town. decided on penalties or unclear result; decide by hand
+Manchester United,club,FA Cup,Early round,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 1 match(es) seen; last: Third round proper L 1–2 vs Brighton
+Paris Saint-Germain,club,Ligue 1,1st,football-data.org: FL1_2025_standings.json,2026-11-04,76 points from 34 games
+Paris Saint-Germain,club,Champions League,Winner,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: FINAL
+Paris Saint-Germain,club,Coupe de France,Round of 32,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: Round of 32 L 0–1 vs Paris FC
+Paris Saint-Germain,club,Trophée des Champions,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 1 match(es) seen; last: Trophée des Champions D 2 (4)–2 (1) vs Marseille. decided on penalties or unclear result; decide by hand
+Paris Saint-Germain,club,UEFA Super Cup,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 1 match(es) seen; last: UEFA Super Cup D 2 (4)–2 (3) vs eng Tottenham. decided on penalties or unclear result; decide by hand
+Real Madrid,club,La Liga,2nd,football-data.org: PD_2025_standings.json,2026-11-04,86 points from 38 games
+Real Madrid,club,Champions League,Quarter-final,football-data.org: CL_2025_matches.json,2026-11-04,furthest stage played: QUARTER_FINALS
+Real Madrid,club,Copa del Rey,Round of 16,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: Round of 16 L 2–3 vs Albacete
+Real Madrid,club,Supercopa de España,Runner-up,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: Final L 2–3 vs Barcelona
+Argentina,national,World Cup,Runner-up,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: FINAL
+Argentina,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: World Cup qualification L 0–1 vs ec Ecuador. phase with no knockout round in the logs; fill the outcome by hand
+Brazil,national,World Cup,Round of 16,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: LAST_16
+Brazil,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: World Cup qualification L 0–1 vs bo Bolivia. phase with no knockout round in the logs; fill the outcome by hand
+Colombia,national,World Cup,Round of 16,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: LAST_16
+Colombia,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: World Cup qualification W 6–3 vs ve Venezuela. phase with no knockout round in the logs; fill the outcome by hand
+Ecuador,national,World Cup,Round of 32,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: LAST_32
+Ecuador,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 2 match(es) seen; last: World Cup qualification W 1–0 vs ar Argentina. phase with no knockout round in the logs; fill the outcome by hand
+England,national,World Cup,Semi-final,football-data.org: WC_2026_matches.json,2026-11-04,"furthest stage played: THIRD_PLACE (lost semi-final, played third-place match)"
+England,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 5 match(es) seen; last: First round W 2–0 vs al Albania. 5 matches in 'First round' (two legs or a series); decide by hand
+France,national,World Cup,Semi-final,football-data.org: WC_2026_matches.json,2026-11-04,"furthest stage played: THIRD_PLACE (lost semi-final, played third-place match)"
+France,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: First round W 3–1 vs az Azerbaijan. 6 matches in 'First round' (two legs or a series); decide by hand
+Georgia,national,World Cup,Did not qualify,football-data.org: WC_2026_matches.json,2026-11-04,Georgia is not among the teams in the World Cup data
+Georgia,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: First round L 1–2 vs bg Bulgaria. 6 matches in 'First round' (two legs or a series); decide by hand
+Mexico,national,World Cup,Round of 16,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: LAST_16
+Morocco,national,World Cup,Quarter-final,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: QUARTER_FINALS
+Morocco,national,Africa Cup of Nations,Runner-up,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 7 match(es) seen; last: Final L 0–1 vs sn Senegal
+Morocco,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 3 match(es) seen; last: First round W 1–0 vs cg Congo. 3 matches in 'First round' (two legs or a series); decide by hand
+Norway,national,World Cup,Quarter-final,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: QUARTER_FINALS
+Norway,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 4 match(es) seen; last: First round W 4–1 vs it Italy. 4 matches in 'First round' (two legs or a series); decide by hand
+Portugal,national,World Cup,Round of 16,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: LAST_16
+Portugal,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: First round W 9–1 vs am Armenia. 6 matches in 'First round' (two legs or a series); decide by hand
+Senegal,national,World Cup,Round of 32,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: LAST_32
+Senegal,national,Africa Cup of Nations,Winner,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 7 match(es) seen; last: Final W 1–0 vs ma Morocco
+Senegal,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 4 match(es) seen; last: First round W 4–0 vs mr Mauritania. 4 matches in 'First round' (two legs or a series); decide by hand
+Spain,national,World Cup,Winner,football-data.org: WC_2026_matches.json,2026-11-04,furthest stage played: FINAL
+Spain,national,WCQ,,FBref match logs (saved pages),2026-11-04,derived from nominees' FBref match logs. 6 match(es) seen; last: First round D 2–2 vs tr Türkiye. 6 matches in 'First round' (two legs or a series); decide by hand

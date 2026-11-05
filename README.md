@@ -5,7 +5,7 @@ by data instead of narrative? This project scores all 30 male nominees against t
 award's own stated criteria, tests how sensitive the ranking is to the scoring method,
 and checks the result against the real 2026 vote.
 
-**Read the story first:** [Ballon d'Or Data Lab — the write-up](REPLACE_WITH_STORY_URL)
+**Read the story first:** [Ballon d'Or Data Lab — the write-up](https://ballondor-datalab.netlify.app/)
 is the human-readable version of everything below, with interactive charts.
 
 ---

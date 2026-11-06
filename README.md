@@ -1,6 +1,6 @@
 # Ballon d'Or 2026 Data Lab
 
-**Project 1 of a 7-project data portfolio.** Who deserves the 2026 Ballon d'Or, judged
+Who deserves the 2026 Ballon d'Or, judged
 by data instead of narrative? This project scores all 30 male nominees against the
 award's own stated criteria, tests how sensitive the ranking is to the scoring method,
 and checks the result against the real 2026 vote.
